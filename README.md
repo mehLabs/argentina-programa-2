@@ -1,4 +1,3 @@
-# Smart Agency de Themes Bootstrap (https://themesbootstrap.com.mx/)
+# Storification
 
-Creado por Diego Velázquez
-http://templune.com/
+Creado por Hugo Iturrieta
